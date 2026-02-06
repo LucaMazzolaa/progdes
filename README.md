@@ -140,7 +140,7 @@ Lab e wrap-up.
 | Krsteva Djordja           | CV2 |  |
 | Lopopolo Greta            | CV2 | https://gretalopopolo.github.io/ilmiosito |
 | Maghetti Simone           | CV2 |  |
-| Mazzola Luca              | CV2 | https://lucamazzolaa.github.io/ilmiosito/giorno1/index.html |
+| Mazzola Luca              | CV2 | https://lucamazzolaa.github.io/ilmiosito |
 | Pantani Laura             | CV2 | https://laura-pantani.github.io/ilmiosito |
 | Ribeiro Marques Sofia     | CV2 | https://sofiaribeiromarques.github.io/sof.marques_portfolio/giorno1 |
 | Riva Gregorio             | CV2 | https://gregorioriva.github.io/ilmiosito |
